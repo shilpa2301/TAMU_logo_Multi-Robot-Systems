@@ -1,5 +1,5 @@
 # TAMU_logo_Multi-Robot-Systems
-Robotics Project to create TAMU Logo using multi-robot systems in turtlesim using ROS2
+Robotics ROS2 Project to create TAMU Logo using multi-robot systems in turtlesim
 
 The results of our work are shown below for a 2-robot and 10-robot system:
 
